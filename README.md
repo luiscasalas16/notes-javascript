@@ -1,1 +1,1 @@
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://drive.google.com/file/d/17BCoj9T_u12OegDZv0BmY8yihDLhesw-/view?usp=share_link" width="500" height="375">
+<iframe width="100%" height="800" src="https://drive.google.com/file/d/17BCoj9T_u12OegDZv0BmY8yihDLhesw-/view">
