@@ -1,1 +1,1 @@
-[DOC](https://drive.google.com/file/d/17BCoj9T_u12OegDZv0BmY8yihDLhesw-/view)
+[PDF](notes-javascript.pdf)
