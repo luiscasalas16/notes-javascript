@@ -21,11 +21,11 @@ A continuación, un conjunto de direcciones que pueden ser de interés.
 
 ---
 ### Artículos
-- [jQuery to JavaScript](https://webdesign.tutsplus.com/articles/essential-cheat-sheet-convert-jquery-to-javascript--cms-35633) - convertir código que usa jQuery en código que utilice sólo 
+- [jQuery to JavaScript](https://webdesign.tutsplus.com/articles/essential-cheat-sheet-convert-jquery-to-javascript--cms-35633) - convertir código que usa jQuery en código que utilice sólo operaciones nativas de JavaScript
 
 ---
 ### Paquetes
-- [uuid](https://www.npmjs.com/package/uuid) - generación de GUID.
+- [uuid](https://www.npmjs.com/package/uuid) - generación de GUID
 - manipulación de dom y eventos
   - [cash-dom](https://www.npmjs.com/package/cash-dom)
   - [umbrellajs](https://www.npmjs.com/package/umbrellajs)
