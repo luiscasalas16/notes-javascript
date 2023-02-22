@@ -14,25 +14,28 @@ A continuación, un conjunto de direcciones que pueden ser de interés.
 
 ---
 ### Herramientas
-- [ESLint](https://eslint.org/docs/latest/user-guide/getting-started)
-- [RxJS](https://rxjs.dev/)
-- [quicktype](https://quicktype.io/)
-- [cdnjs](https://cdnjs.com/)
-- [regex101: build, test, and debug regex](https://regex101.com/)
+- [ESLint](https://eslint.org/docs/latest/user-guide/getting-started) -  analizador de código estático para identificar patrones problemáticos en el código
+- [Reactive Extensions Library for JavaScript](https://rxjs.dev/) - biblioteca de extensiones reactivas
+- [quicktype](https://quicktype.io) - convertidor de Json en una interface o clase con tipos para múltiples lenguajes
+- [regex101: ](https://regex101.com/) - editor de expresiones regulares
 
 ---
 ### Artículos
-- [Convert jQuery to JavaScript](https://webdesign.tutsplus.com/articles/essential-cheat-sheet-convert-jquery-to-javascript--cms-35633)
+- [jQuery to JavaScript](https://webdesign.tutsplus.com/articles/essential-cheat-sheet-convert-jquery-to-javascript--cms-35633) - convertir código que usa jQuery en código que utilice sólo 
 
 ---
 ### Paquetes
 - [uuid](https://www.npmjs.com/package/uuid) - generación de GUID.
-- [cash-dom](https://www.npmjs.com/package/cash-dom) - manipulación de dom y eventos estilo jquery.
-- [umbrellajs](https://www.npmjs.com/package/umbrellajs) - manipulación de dom y eventos.
-- [bignumber.js](https://www.npmjs.com/package/bignumber.js) - manejo de aritmética decimal y no decimal de precisión arbitraria.
-- [mathjs](https://www.npmjs.com/package/mathjs) - biblioteca de matemática
-- [dayjs](https://www.npmjs.com/package/dayjs) - biblioteca de fechas
-- [date-fns](https://www.npmjs.com/package/date-fns) - biblioteca de fechas
-- [luxon](https://www.npmjs.com/package/luxon) - biblioteca de fechas
-- [lodash](https://www.npmjs.com/package/lodash) - biblioteca de utilitarios 
-- [underscore](https://www.npmjs.com/package/underscore) - biblioteca de utilitarios 
+- manipulación de dom y eventos
+  - [cash-dom](https://www.npmjs.com/package/cash-dom)
+  - [umbrellajs](https://www.npmjs.com/package/umbrellajs)
+- biblioteca de matemáticas
+  - [bignumber.js](https://www.npmjs.com/package/bignumber.js)
+  - [mathjs](https://www.npmjs.com/package/mathjs)
+- biblioteca de fechas
+  - [dayjs](https://www.npmjs.com/package/dayjs)
+  - [date-fns](https://www.npmjs.com/package/date-fns)
+  - [luxon](https://www.npmjs.com/package/luxon)
+- biblioteca de utilitarios 
+  - [lodash](https://www.npmjs.com/package/lodash)
+  - [underscore](https://www.npmjs.com/package/underscore)
