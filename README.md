@@ -2,7 +2,7 @@
 
 En el documento [PDF](notes-javascript.pdf) están las notas de referencia sobre JavasScript.
 
-A continuación, un conjunto de direcciones que pueden ser de interés.
+A continuación, un conjunto de enlaces de interés.
 
 ---
 ### Documentación
