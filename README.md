@@ -11,6 +11,7 @@ A continuación, un conjunto de enlaces de interés.
 - [W3Schools - JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
 - [W3Schools - JavaScript Reference](https://www.w3schools.com/jsref/default.asp)
 - [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JavaScript.info](https://javascript.info)
 
 ---
 ### Herramientas
