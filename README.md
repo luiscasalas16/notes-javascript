@@ -5,7 +5,9 @@ En el documento [PDF](notes-javascript.pdf) están las notas de referencia sobre
 A continuación, un conjunto de enlaces de interés.
 
 ---
-### Documentación
+
+## Documentación
+
 - [Manz - Lenguaje Javascript](https://lenguajejs.com/javascript/)
 - [InterviewBit - JavaScript Cheat Sheet](https://www.interviewbit.com/javascript-cheat-sheet/)
 - [W3Schools - JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
@@ -14,18 +16,24 @@ A continuación, un conjunto de enlaces de interés.
 - [JavaScript.info](https://javascript.info)
 
 ---
-### Herramientas
-- [ESLint](https://eslint.org/docs/latest/user-guide/getting-started) -  analizador de código estático para identificar patrones problemáticos en el código
+
+## Herramientas
+
+- [ESLint](https://eslint.org/docs/latest/user-guide/getting-started) - analizador de código estático para identificar patrones problemáticos en el código
 - [Reactive Extensions Library for JavaScript](https://rxjs.dev/) - biblioteca de extensiones reactivas
 - [quicktype](https://quicktype.io) - convertidor de Json en una interface o clase con tipos para múltiples lenguajes
-- [regex101: ](https://regex101.com/) - editor de expresiones regulares
+- [regex101](https://regex101.com/) - editor de expresiones regulares
 
 ---
-### Artículos
+
+## Artículos
+
 - [jQuery to JavaScript](https://webdesign.tutsplus.com/articles/essential-cheat-sheet-convert-jquery-to-javascript--cms-35633) - convertir código que usa jQuery en código que utilice sólo operaciones nativas de JavaScript
 
 ---
-### Paquetes
+
+## Paquetes
+
 - [uuid](https://www.npmjs.com/package/uuid) - generación de GUID
 - manipulación de dom y eventos
   - [cash-dom](https://www.npmjs.com/package/cash-dom)
@@ -37,6 +45,6 @@ A continuación, un conjunto de enlaces de interés.
   - [dayjs](https://www.npmjs.com/package/dayjs)
   - [date-fns](https://www.npmjs.com/package/date-fns)
   - [luxon](https://www.npmjs.com/package/luxon)
-- biblioteca de utilitarios 
+- biblioteca de utilitarios
   - [lodash](https://www.npmjs.com/package/lodash)
   - [underscore](https://www.npmjs.com/package/underscore)
