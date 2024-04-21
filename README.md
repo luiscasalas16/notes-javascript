@@ -7,7 +7,7 @@ Este repositorio contiene ejemplos y documentación relacionada con Javascript.
 - [Herramientas](#herramientas)
 - [Artículos](#artículos)
 - [Bibliotecas](#bibliotecas)
-- [Ejemplos]
+- Ejemplos
   - [Proyecto de ejemplo de configuración de Vite 4.](./example-vite-js/README.md)
   - [Proyecto de ejemplo de configuración de Webpack 5.](./example-webpack-js/README.md)
 
