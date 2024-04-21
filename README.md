@@ -1,8 +1,15 @@
 # notes-javascript
 
-En el documento [PDF](notes-javascript.pdf) están las notas de referencia sobre JavasScript.
+Este repositorio contiene ejemplos y documentación relacionada con Javascript.
 
-A continuación, un conjunto de enlaces de interés.
+- En el documento [PDF](notes-javascript.pdf) están las notas de referencia sobre JavasScript.
+- [Documentación](#documentación)
+- [Herramientas](#herramientas)
+- [Artículos](#artículos)
+- [Bibliotecas](#bibliotecas)
+- [Ejemplos]
+  - [Proyecto de ejemplo de configuración de Vite 4.](./example-vite-js/README.md)
+  - [Proyecto de ejemplo de configuración de Webpack 5.](./example-webpack-js/README.md)
 
 ## Documentación
 
